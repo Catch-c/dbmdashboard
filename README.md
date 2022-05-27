@@ -28,4 +28,8 @@ Alternatively, on this page click 'Code' and 'Download Zip'
 ```bash
 npm install --save
 ```
+6.  Add the callback URL to the Bot's OAuth2 Page. Click the save button after that.
+7.  Create a **MongoDB** database. You can choose between hosting it yourself (locally, VPS) or from [MongoDB Atlas](https://www.mongodb.com/atlas/database). Paste the connection string into `MONGO_URL` in the .env file. 
+            You can get the connection string by going to Database > Cluser0 > Connect > Connect using MongoDB Compass > Find connection string and put your password in <password>
+
 
