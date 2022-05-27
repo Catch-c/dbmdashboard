@@ -15,5 +15,11 @@ git clone https://github.com/NTMNathan/discord-dashboard
 ```bash
 Alternatively, visit https://github.com/NTMNathan/discord-dashboard. Click 'Code' and 'Download Zip'
 ```
-
+2.  Create a folder on your computer, then type the following console command to clone this repository 
+```bash
+git clone https://github.com/Catch-c/dbmdashboard
+```
+```bash
+Alternatively, on this page click 'Code' and 'Download Zip'
+```
 
