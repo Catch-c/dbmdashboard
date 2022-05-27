@@ -9,6 +9,7 @@
 
 ## SETUP
 1.  Create a folder on your computer, then type the following console command to clone the original dashboard.
+
 ```git clone https://github.com/NTMNathan/discord-dashboard```
 
 
