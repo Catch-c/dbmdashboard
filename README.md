@@ -22,4 +22,5 @@ git clone https://github.com/Catch-c/dbmdashboard
 ```bash
 Alternatively, on this page click 'Code' and 'Download Zip'
 ```
+3.  Move the contents of this repositorys folder 'dashboard' into your https://github.com/NTMNathan/discord-dashboard folder. Make sure to replace the duplicate files.
 
