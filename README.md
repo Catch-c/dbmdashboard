@@ -41,7 +41,7 @@ npm run deploy
 node bot
 ```
 10. Add the commands and events from this repository into your Discord Bot Maker. Save, and run the bot.
-11. Access the dashboard at https://localhost:3000 or at your site.
+11. Access the dashboard at localhost:3000 or at your site.
             
             
 ## SUPPORT & SUGGESTIONS
