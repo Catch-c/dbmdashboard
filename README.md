@@ -1,2 +1,3 @@
-# dbmdashboard
-Tutorial/Files needed to create a Dashboard that works with Discord Bot Maker
+# DBM DASHBOARD
+## BUILT OFF OF NTMNATHANS DASHBOARD
+This is built off of [NMTNathan's Discord Dashboard](https://github.com/NTMNathan/discord-dashboard)
