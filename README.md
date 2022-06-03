@@ -25,7 +25,8 @@ Alternatively, on this page click 'Code' and 'Download Zip'
 ```
 3.  Move the contents of this repositorys folder 'dashboard' into your https://github.com/NTMNathan/discord-dashboard folder. Make sure to replace the duplicate files.
 4.  Rename `example.env` to `.env` and fill out `TOKEN` `CLIENT_ID` & `CLIENT_SECRET` with the values from your applications **OAuth2** and **Bot** page. https://discord.com/developers/applications/ | SAVE THIS FILE.
-5.  In console, run this command
+5.  Edit `SUPPORT_SERVER` `BOT_DESCRIPTION` `FEATURE_TITLE` `FEATURE_DESCRIPTION` to your liking in the `.env` file (Make sure to change feature title and description for all 6 features)
+6.  In console, run this command
 ```bash
 npm install --save
 ```
